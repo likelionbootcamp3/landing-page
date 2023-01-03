@@ -11,7 +11,7 @@ const Banner = () => {
           <div className="text-center sm:text-left">
             <div className="text-3xl font-extrabold sm:text-5xl ">
               <h4>Let us find your</h4>
-              <h4 className="capitalize text-[#4338ca]">forever clothes.</h4>
+              <h4 className="capitalize text-[#4338ca]">forever shoes.</h4>
             </div>
             <p className="m-4 mb-8 ml-0 max-w-lg sm:text-xl sm:leading-[32.5px] sm:mx-0 ">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt
